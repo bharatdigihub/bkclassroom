@@ -1,0 +1,35 @@
+/* HomePage.css */
+.homepage {
+    background-color: #f8f9fa; /* Light background for the homepage */
+  }
+  
+  .text-slider h3 {
+    color: #00796b; /* Dark green for titles */
+    font-size: 1.75rem;
+    text-align: center;
+  }
+  
+  .text-slider p {
+    text-align: center;
+    color: #004d40;
+  }
+  
+  .latest-blogs, .trending-blogs, .trending-news, .testimonials {
+    padding: 20px 0;
+  }
+  
+  .latest-blogs h2, .trending-blogs h2, .trending-news h2, .testimonials h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #00796b;
+  }
+  
+  .card-title {
+    color: #004d40; /* Darker green for titles */
+  }
+  
+  .blockquote-footer {
+    color: #00796b;
+    text-align: right;
+  }
+  

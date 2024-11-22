@@ -1,0 +1,11 @@
+/* Footer.css */
+.custom-footer {
+    background-color: #e0f2f1; /* Light green background */
+    border-top: 2px solid #b2dfdb; /* Slightly darker green border */
+    color: #00796b; /* Darker green text */
+  }
+  
+  .custom-footer p {
+    margin: 0;
+  }
+  
