@@ -3,10 +3,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scriptssss
+## Available Script
 
 In the project directory, you can run:
-
+wwwwwq
 ### `npm start`
 
 Runs the app in the development mode.\
