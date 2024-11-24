@@ -22,7 +22,7 @@ const Header = () => {
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mx-auto">
           <Navbar.Brand as={Link} to="/">
-            My Blog Portal
+           BKCLASSROOM
           </Navbar.Brand>
         </Nav>
         <Nav className="ml-auto">
