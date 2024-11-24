@@ -28,7 +28,7 @@ const Header = () => {
         <Nav className="ml-auto">
           <Nav.Link as={Link} to="/">Home</Nav.Link>
           <Nav.Link as={Link} to="/about">About Us</Nav.Link>
-          <Nav.Link as={Link} to="/Practice">Practice</Nav.Link>
+          <Nav.Link as={Link} to="/Practice">Practices</Nav.Link>
           <Nav.Link as={Link} to="/Interview-questions">Interview Questions</Nav.Link>
           <Nav.Link as={Link} to="/registration">Registration</Nav.Link>
           {isLoggedIn ? (
